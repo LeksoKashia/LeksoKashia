@@ -1,5 +1,4 @@
 <h1 align="center">Submerged Coder</h1>
-<hr>
 <h3 align="center">Web developer from Georgia</h3>
 
 
