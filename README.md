@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leksokashia&label=Profile%20views&color=0e75b6&style=flat" alt="leksokashia" /> </p>
 
-- 🌱 I’m currently learning **Full-stack development**
+- 🌱 I’m a Front-end Developer
 
-- 📫 How to reach me **lekso.kashia.1@btu.edu.ge**
+- 📫 How to reach me **kashialekso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
